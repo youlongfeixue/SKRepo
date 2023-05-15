@@ -1,2 +1,2 @@
 # SKRepo
-A repo of sky.
+A spec of sky.
